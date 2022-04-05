@@ -1,0 +1,20 @@
+.footer__social-icon {
+    content: "";
+    height: 16px;
+    width: 16px;
+    padding-left: 30px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.facebook {
+    background-image: url(/images/facebook_white.svg);
+}
+
+.vk {
+    background-image: url(/images/vk_white.svg);
+}
+
+.instagram {
+    background-image: url(/images/instagram_white.svg);
+}

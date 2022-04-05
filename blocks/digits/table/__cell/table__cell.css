@@ -1,0 +1,8 @@
+.table__cell {
+    width: 250px;
+    margin-top: 60px;
+}
+
+.table__cell>.table__text:nth-child(3) {
+    margin-top: 20px;
+}

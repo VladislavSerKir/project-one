@@ -1,0 +1,10 @@
+.kaufman__pic {
+    position: absolute;
+    height: 877px;
+    width: 875px;
+    top: 0;
+    left: 755px;
+    animation: rotation linear 20s infinite;
+    overflow: hidden;
+    z-index: -1;
+}

@@ -1,0 +1,17 @@
+.footer__column-link {
+    padding: 5px 0;
+}
+
+.column-link:hover {
+    opacity: 0.5;
+    transition: 0.3s ease-in-out;
+}
+
+.column-link {
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 18px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+}

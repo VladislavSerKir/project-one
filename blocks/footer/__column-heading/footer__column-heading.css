@@ -1,0 +1,14 @@
+.footer__column-heading {
+    font-family: 'Inter SemiBold';
+    font-size: 18px;
+    line-height: 18px;
+    color: #fff;
+    text-decoration: none;
+    padding: 0 0 15px;
+    transition: 0.3s ease-in-out;
+}
+
+.footer__column-heading:hover {
+    opacity: 0.5;
+    transition: 0.3s ease-in-out;
+}

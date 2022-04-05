@@ -1,0 +1,7 @@
+@import url(two-columns/two-columns.css);
+
+.description {
+    /* background-color: aliceblue; */
+    display: flex;
+    flex-direction: column;
+}

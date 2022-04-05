@@ -1,0 +1,12 @@
+@import url(table/table.css);
+@import url(section-title/_theme/section-title_theme_dark.css);
+@import url(section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(pic/kaufmain__pic.css);
+
+.kaufman {
+    background-color: #000;
+    padding-bottom: 90px;
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+}
